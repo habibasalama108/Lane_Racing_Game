@@ -1,0 +1,27 @@
+{
+  "version": "0.4.36",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "steer",
+      "text": "",
+      "points": [
+        [
+          505.53191489361706,
+          263.2978723404256
+        ],
+        [
+          950.6382978723404,
+          699.8936170212766
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "steer_frame23.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

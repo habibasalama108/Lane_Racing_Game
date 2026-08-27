@@ -1,0 +1,27 @@
+{
+  "version": "0.4.36",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "kachow",
+      "text": "",
+      "points": [
+        [
+          571.9148936170212,
+          204.5744680851065
+        ],
+        [
+          902.9787234042553,
+          716.9148936170212
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "kachow_frame36.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

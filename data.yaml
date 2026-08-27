@@ -1,0 +1,7 @@
+path: C:\Users\mahmoudelbnna\OneDrive\Documentos\mia\classdetection\dataset
+train: images/train
+val: images/val
+
+names:
+  0: steer
+  1: kachow
